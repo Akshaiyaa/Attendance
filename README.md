@@ -1,8 +1,10 @@
 # Attendance
+
+This is a simple app for checking the student attendance status in the hostel everyday.
+
 The first activity consists of 2 buttons to choose from – “Warden” and “Student”.
 1. On clicking the “Warden” button, a new activity is opened where the warden can give
-attendance for the student. The Toast method is used to give the message if the “Save”
-button is clicked after taking attendance. An array stores the names of the students
+attendance for the student. An array stores the names of the students
 present and is passed on to the student activity page once the “SAVE” button is
 clicked.
 2. On clicking the “Student” button, a new activity is opened where the student can give
